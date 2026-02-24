@@ -144,7 +144,10 @@
 
     <script>
         // Initialize Lucide icons
+
+        //hello sherwin hehe-try lang toh. Nag comment lang me
         lucide.createIcons();
     </script>
 </body>
+
 </html>
